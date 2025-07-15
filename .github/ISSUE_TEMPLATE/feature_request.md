@@ -1,5 +1,5 @@
 ---
-name: "\U0001F680 기능 요청"
+name: feature_request
 about: 새로운 기능 또는 개선 사항을 제안해주세요.
 title: "[Feature] "
 labels: enhancement
